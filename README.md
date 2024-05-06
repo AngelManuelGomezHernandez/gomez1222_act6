@@ -25,6 +25,6 @@ samples, guidance on mobile development, and a full API reference.
 ![image](https://github.com/AngelManuelGomezHernandez/gomez1222_act6/assets/143548268/b74b23d0-8c9e-424b-baba-d80e2e6852d3)
 ![image](https://github.com/AngelManuelGomezHernandez/gomez1222_act6/assets/143548268/975ac0e9-6281-49a3-aa0b-922c5d0d518c)
 
-##Referencias:
+## Referencias:
 https://www.youtube.com/watch?v=hRqPk-pH6y0
 
